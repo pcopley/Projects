@@ -15,7 +15,10 @@ arccot(X, Unity, Sum, XPower, N, Sign) ->
   Term = XPower div N,
   arccot(X, Unity, Sum + Sign*Term, XPower div (X*X), N+2, -Sign).
 
-pi(Digits) ->
+pi(DirtyDigits) ->
+  Digits = if DirtyDigits > 100 -> 100;
+              true -> DirtyDigits
+           end,
   Unity = pow(10, Digits+10),
   Pi = 4 * (4 * arccot(5, Unity) - arccot(239, Unity)),
   Pi div pow(10,10).
