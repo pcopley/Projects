@@ -1,5 +1,7 @@
 Follow along with my progress at the blog I've created specifically for this repository, [Learning Erlang](http://learning-erlang.com/).
 
+All code linked here should be assumed to have been released under the most permissive license applicable, including but not limited to the public domain. Do whatever you want with this code, and I hope you learn something from it.
+
 Mega Project List
 ========
 
