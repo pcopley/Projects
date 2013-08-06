@@ -1,3 +1,5 @@
+Follow along with my progress at the blog I've created specifically for this repository, [Learning Erlang](http://learning-erlang.com/).
+
 Mega Project List
 ========
 
