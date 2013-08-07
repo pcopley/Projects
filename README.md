@@ -16,7 +16,7 @@ Numbers
 
 004 **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-005 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+005 [**Find Cost of Tile to Cover W x H Floor**[(https://github.com/pcopley/Projects/blob/master/005_FlooringCost/costcalc.erl) - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 006 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
