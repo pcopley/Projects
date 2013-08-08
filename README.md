@@ -8,9 +8,9 @@ Mega Project List
 Numbers
 ---------
 
-001 [**Find PI to the Nth Digit**](https://github.com/pcopley/Projects/blob/master/01_FindPi/machin.erl) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+001 [**Find PI to the Nth Digit**](https://github.com/pcopley/Projects/blob/master/001_FindPi/machin.erl) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-002 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+002 [**Fibonacci Sequence**](https://github.com/pcopley/Projects/blob/master/002_Fibonacci/fibonacci.erl) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 003 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
